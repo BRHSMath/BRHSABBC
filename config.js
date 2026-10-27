@@ -2,6 +2,6 @@
 // then click "Commit changes". It looks like:
 //   https://script.google.com/macros/s/AKfycb...long-code.../exec
 window.CALC_CONFIG = {
-  apiUrl: "",
+  apiUrl: "https://script.google.com/macros/s/AKfy…/exec",
   siteName: "Mr. Le's AP Calculus"
 };
